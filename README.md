@@ -5,5 +5,8 @@ Syntax of Python🐍 , C ©️ , C++ , Java 🍵 , Rust ®️.<br>
 Syntax: Print("Hello Github")<br>
 🔘C<b><br>
 Syntax: Printf("Hello Github")<br>
+🔘C++<b><br>
+Syntax: 
+
 
 
