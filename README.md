@@ -6,7 +6,7 @@ Syntax: #include<stdio.h><br>Print("Hello Github");<br>
 🔘C<b><br>
 Syntax: Printf("Hello Github");<br>
 🔘C++<b><br>
-Syntax: #include<iostream> <br> cin>>a;<br> cout<<a<<endl;<br>
+Syntax: ```#include<iostream>``` <br> cin>>a;<br> cout<<a<<endl;<br>
 
 
 
