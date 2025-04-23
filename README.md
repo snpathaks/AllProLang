@@ -4,7 +4,7 @@ Syntax of Python🐍 , C ©️ , C++ , Java 🍵 , Rust ®️.<br>
 🔘Python<b><br>
 Syntax: <br>Print("Hello Github");<br>
 🔘C<b><br>
-Syntax: <br>#include<stdio.h>Printf("Hello Github");<br>
+Syntax: <br>#include<stdio.h><br>Printf("Hello Github");<br>
 🔘C++<b><br>
 Syntax: <br>```#include<iostream>``` <br> cin>>a;<br> cout<<a<<endl;<br>
 🔘Java<b><br>
