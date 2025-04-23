@@ -7,6 +7,9 @@ Syntax: #include<stdio.h><br>Print("Hello Github");<br>
 Syntax: Printf("Hello Github");<br>
 🔘C++<b><br>
 Syntax: ```#include<iostream>``` <br> cin>>a;<br> cout<<a<<endl;<br>
+🔘Java<b><br>
+Syntax: ```import java.util.*```<br> class j{ <br> public static void main(String [] args){ <br> System.out.println("Hello GithubI.");<br>} <br>}
+
 
 
 
