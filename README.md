@@ -8,7 +8,7 @@ Syntax: <br>#include<stdio.h><br>Printf("Hello Github");<br>
 🔘C++<b><br>
 Syntax: <br>```#include<iostream>``` <br> cin>>a;<br> cout<<a<<endl;<br>
 🔘Java<b><br>
-Syntax:<br> ```import java.util.*```<br>class j{ <br> &nbsp; public static void main(String [] args){ <br> &nbsp;&nbsp; System.out.println("Hello GithubI.");<br>&nbsp;  } <br>}
+Syntax:<br> ```import java.util.*```<br>class j{ <br> &nbsp; public static void main(String [] args){ <br> &nbsp;&nbsp; System.out.println("Hello GithubI.");<br>&nbsp;  } <br>}<br>
 🔘Javascript<b><br>
   Syntax:<br>console.log("Hello Github");<br>
 🔘Rust<b><br>
