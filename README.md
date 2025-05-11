@@ -12,6 +12,10 @@ Syntax:<br> ```import java.util.*```<br>class j{ <br> &nbsp; public static void 
 🔘Javascript<b><br>
   Syntax:<br>console.log("Hello Github");<br>
 🔘Rust<b><br>
+Syntax:<br>
+fn main() {<br>
+    println!("Hello, Github!");<br>
+}<br>
 
 
 
