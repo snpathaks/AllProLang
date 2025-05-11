@@ -14,7 +14,7 @@ Syntax:<br> ```import java.util.*```<br>class j{ <br> &nbsp; public static void 
 🔘Rust<b><br>
 Syntax:<br>
 fn main() {<br>
-    println!("Hello, Github!");<br>
+     &nbsp;println!("Hello, Github!");<br>
 }<br>
 
 
