@@ -17,8 +17,10 @@ fn main() {<br>
      &nbsp;println!("Hello, Github!");<br>
 }<br>
 🔘C#: <b> <br>
-<a href="file:///E:/AllProLang/allpro.html">Open Local HTML File</a>
+
 [Open HTML File](file:///E:/AllProLang/allpro.html">)
+[Open HTML File](./allpro.html)
+
 
 
 
