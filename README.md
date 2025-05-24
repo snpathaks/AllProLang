@@ -18,7 +18,11 @@ fn main() {<br>
 }<br>
 🔘C#: <b> <br>
 <b>LINK: </b>
-<a href="file:///E:/AllProLang/allpro.html"></a>
+
+<a href="file:///E:/AllProLang/allpro.html">Open Local HTML File</a>
+
+<a href="allpro.html">Open allpro.html</a>
+
 
 
 
